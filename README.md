@@ -33,8 +33,3 @@ Pull requests are welcome. So if you've got an idea of how to improve this code,
 - PI icon from [Good Ware (flaticon)](https://www.flaticon.com/free-icon/pi_2532557?related_id=2532557&origin=search).
 - Ropes icon from [Freepik (flaticon)](https://www.flaticon.com/free-icon/ropes_1382616).
 - Headphones icon from [Nhor Phai(flaticon)](https://www.flaticon.com/free-icon/headphones_2590162?related_id=2590061&origin=search).
-
-
-## License
-
-#### MIT © [Luciano Esteban](https://github.com/LucioFex)
